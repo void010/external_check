@@ -1,0 +1,11 @@
+google.com
+yahoo.com
+bing.com
+facebook.com
+fb.com
+youtube.com
+twitter.com
+oracle.com
+microsoft.com
+ey.com
+linkedin.com
