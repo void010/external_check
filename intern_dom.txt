@@ -1,2 +1,1 @@
-ey.com
-ey.net
+## List of internal domains
